@@ -2,7 +2,7 @@
 
 📖 I am a Graduate Student at the University of Manitoba, Canada  
 ⚡ I am interesred in **Machine Learning** and **Wireless Communication**  
-🏀 I love sports, especially **Cricket** and **Football**  
+⚽ I love sports, especially **Cricket** and **Football**  
 
 ## Languages & Tools I Use:
 - ![Python](https://img.shields.io/badge/python-3.9-blue)
