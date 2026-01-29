@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Ibrahim!👋
+# Hi there, I'm Ibrahim!👋
 
 📖 I am a Graduate Student at the University of Manitoba, Canada  
 ⚡ I am interesred in **Machine Learning** and **Wireless Communication**  
