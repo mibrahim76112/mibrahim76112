@@ -17,9 +17,6 @@
 - ![OpenCV](https://img.shields.io/badge/OpenCV-v4.5.3-blue)
 - ![Pandas](https://img.shields.io/badge/Pandas-v1.3.3-blue)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-1.60-blue)
-- ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-CS6-orange)
-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2021-blue)
-- ![Adobe AfterEffects](https://img.shields.io/badge/Adobe%20AfterEffects-2021-blue)
 - ![Roboflow](https://img.shields.io/badge/Roboflow-1.0-green)
 
 ## Reach Me:
