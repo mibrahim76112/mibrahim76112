@@ -1,4 +1,4 @@
-# Hi, I'm Ibrahim👋. Welcome to my GitHub
+# Hi, I'm Ibrahim👋 Welcome to my GitHub
 
 📖 I am a Graduate Student at the University of Manitoba, Canada  
 ⚡ I am interesred in **Machine Learning** and **Wireless Communication**  
