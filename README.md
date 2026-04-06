@@ -1,38 +1,35 @@
 # Hi, I'm Ibrahim 👋
 
-## 📍 About Me
+## About
 
-I am a Master's student in Electrical and Computer Engineering at the University of Manitoba, Canada.
+I am a Master's student in Electrical and Computer Engineering at the University of Manitoba, Canada, working on wireless communication systems and reinforcement learning-based optimization.
 
-My work focuses on the intersection of:
+My interests include:
+- 📡 wireless system design and optimization
+- 🤖 reinforcement learning for control and decision-making
+- 🛡️ safe multi-agent learning under practical constraints
+- 🚁 UAV-assisted communication and trajectory design
+- ⚙️ resource allocation and channel optimization for next-generation networks
 
-- 📡 Wireless Communications
-- 🤖 Reinforcement Learning
-- 🛡️ Safe Multi-Agent Control
-- 🚁 UAV-Assisted Wireless Systems
-- ⚙️ Optimization for Communication Networks
-
-I am particularly interested in learning-based approaches for wireless resource allocation, trajectory optimization, channel assignment, and safe decision-making in dynamic communication environments.
-
-## 🔬 Research Focus
+## Research Areas
 
 ### 📡 Wireless Communications
-- Beamforming and wideband multi-user systems
-- Resource allocation for next-generation wireless networks
+- Beamforming for wideband multi-user systems
+- Resource allocation in dynamic wireless networks
 - AI-driven optimization for communication systems
-- 5G/6G wireless system design
+- 5G/6G communication problems
 
-### 🤖 Reinforcement Learning
+### 🤖 Reinforcement Learning and Control
 - Deep reinforcement learning for control tasks
 - Multi-agent reinforcement learning
-- Safe reinforcement learning under system constraints
-- Learning-based optimization for non-stationary environments
+- Safe reinforcement learning with constraints
+- Learning-based decision-making in non-stationary environments
 
-### 🚁 UAVs and Wireless Control
+### 🚁 UAVs and Networked Systems
 - UAV trajectory optimization
-- Joint trajectory and communication design
-- Channel allocation in UAV-enabled wireless systems
-- Reinforcement learning for UAV-assisted networks
+- Joint communication and control design
+- Channel allocation in UAV-enabled systems
+- Learning-based methods for adaptive aerial networks
 
 ## 🛠️ Skills & Tools
 
