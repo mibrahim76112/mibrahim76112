@@ -5,11 +5,11 @@
 I am a Master's student in Electrical and Computer Engineering at the University of Manitoba, Canada, working on wireless communication systems and reinforcement learning-based optimization.
 
 My interests include:
-- 📡 wireless system design and optimization
-- 🤖 reinforcement learning for control and decision-making
-- 🛡️ safe multi-agent learning under practical constraints
+- 📡 Wireless system design and optimization
+- 🤖 Reinforcement learning for control and decision-making
+- 🛡️ Safe multi-agent learning under practical constraints
 - 🚁 UAV-assisted communication and trajectory design
-- ⚙️ resource allocation and channel optimization for next-generation networks
+- ⚙️ Resource allocation and channel optimization for next-generation networks
 
 ## Research Areas
 
