@@ -1,4 +1,3 @@
-```markdown id="q7vqil"
 # Hi, I'm Ibrahim 👋
 
 ## About
@@ -78,5 +77,5 @@ My interests include:
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-9889431bb/)
 - [Portfolio](https://mibrahim76112.github.io/)
 - [Google Scholar](https://scholar.google.com/citations?user=JRRKtXYAAAAJ&hl=en)
-- ibrah101@myumanitoba.ca
-```
+- ibrahimxh07@gmail.com
+
