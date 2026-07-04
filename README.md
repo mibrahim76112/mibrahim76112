@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an M.Sc. candidate in Electrical and Computer Engineering at the University of Manitoba, working at the intersection of **5G/6G wireless systems**, **reinforcement learning**, **UAV autonomy**, **embedded systems**, and **edge AI**.
+I'm an M.Sc. candidate in Electrical and Computer Engineering at the University of Manitoba, working at the intersection of **5G/6G wireless systems**, **reinforcement learning**, **UAVs**, **embedded systems**, and **edge AI**.
 
 - 🔭 Currently researching hierarchical deep RL for multi-agent networked systems and deep unfolding for intelligent metasurface-assisted communications
 - 📡 Working on physical-layer modeling, beamforming optimization, and IRS/SIM-assisted wireless systems
@@ -21,7 +21,7 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
 
 | 🤖 **Cooperative Safe MADRL** | 📡 **WMMSE Deep Unfolding** |
 |---|---|
-| **[Cooperative Safe MADRL](https://github.com/mibrahim76112/Coperative-Safety-MADRL)** — Multi-agent RL framework for UAV trajectory optimization with Lyapunov-inspired safety constraints. Benchmarked across rewards, violations, QoS, and energy metrics. | **[WMMSE and Deep Unfolding for Wireless Optimization](https://github.com/mibrahim76112/WMMSE_Unfolding)** — Benchmarked 5 beamforming methods including deep unfolding and accelerated variants. Achieved ~15.5 bps/Hz, improving over WMMSE by 9–10% at 8 users. |
+| **[Cooperative Safe MADRL](https://github.com/mibrahim76112/Coperative-Safety-MADRL)** — Multi-agent RL framework for UAV trajectory optimization with Lyapunov-inspired safety constraints. Benchmarked across rewards, violations, QoS, and energy metrics. | **[WMMSE and Deep Unfolding for Wireless Optimization](https://github.com/mibrahim76112/WMMSE_Unfolding)** — Benchmarked 5 beamforming methods including deep unfolding and accelerated variants and improved  9–10% of sumrate over truncated WMMSE. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![MADRL](https://img.shields.io/badge/MADRL-6D28D9?style=flat-square&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Beamforming](https://img.shields.io/badge/Beamforming-0EA5E9?style=flat-square&logoColor=white) |
 
 ---
