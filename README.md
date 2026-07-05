@@ -21,14 +21,14 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
 
 | 🤖 **Cooperative Safe MADRL** | 📡 **WMMSE Deep Unfolding** |
 |---|---|
-| **[Cooperative Safe MADRL](https://github.com/mibrahim76112/Coperative-Safety-MADRL)** — Multi-agent RL framework for UAV trajectory optimization with Lyapunov-inspired safety constraints. Benchmarked across rewards, violations, QoS, and energy metrics. | **[WMMSE and Deep Unfolding for Wireless Optimization](https://github.com/mibrahim76112/WMMSE_Unfolding)** — Benchmarked 5 beamforming methods including deep unfolding and accelerated variants and improved  9–10% of sumrate over truncated WMMSE. |
+| **[Cooperative Safe MADRL](https://github.com/mibrahim76112/Coperative-Safety-MADRL)** — Multi-agent RL framework for UAV trajectory optimization with Lyapunov-inspired safety constraints. Benchmarked across rewards, violations, QoS, and energy metrics. | **[WMMSE and Deep Unfolding for Wireless Optimization](https://github.com/mibrahim76112/WMMSE_Unfolding)** — Benchmarked 5 beamforming methods including deep unfolding and accelerated variants and improved 9–10% of sumrate over truncated WMMSE. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![MADRL](https://img.shields.io/badge/MADRL-6D28D9?style=flat-square&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Beamforming](https://img.shields.io/badge/Beamforming-0EA5E9?style=flat-square&logoColor=white) |
 
 ---
 
 ## 🔥 MORE PROJECTS
 
-| 🎯 **[DRL UAV Object Tracking](https://github.com/mibrahim76112/DRL-based-Object-Detection-and-Tracking-from-a-UAV)** | 🧠 **[Dynamic Hybrid Vision Transformer](https://github.com/mibrahim76112/DRL-based-Object-Detection-and-Tracking-from-a-UAV)** | 📷 **[Bird Detection via Audio](https://github.com/mibrahim76112/Bird-Detection-Using-Audio-Speech)** |
+| 🎯 **[DRL UAV Object Tracking](https://github.com/mibrahim76112/DRL-based-Object-Detection-and-Tracking-from-a-UAV)** | 🧠 **[Dynamic Hybrid Vision Transformer](https://github.com/mibrahim76112/Dynamic-Hybrid-Vision-Transformer)** | 📷 **[Bird Detection via Audio](https://github.com/mibrahim76112/Bird-Detection-Using-Audio-Speech)** |
 |---|---|---|
 | YOLOv2 + visual servoing + MAVLink. PER-DDPG achieved fastest convergence, reducing tracking error within 3–4 seconds in Gazebo. | Hybrid transformer architecture combining ViT with CNN inductive biases for efficient visual representation learning. | CNN on spectrograms across 9,227 audio samples. 82% training accuracy for 6 bird species classification. |
 | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![YOLOv2](https://img.shields.io/badge/YOLOv2-F59E0B?style=flat-square&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-7C3AED?style=flat-square&logoColor=white) | ![CNN](https://img.shields.io/badge/CNN-10B981?style=flat-square&logoColor=white) ![DSP](https://img.shields.io/badge/DSP-3B82F6?style=flat-square&logoColor=white) |
@@ -71,11 +71,11 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
   <img src="https://streak-stats.demolab.com?user=mibrahim76112&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 ## 🐍 CONTRIBUTION SNAKE
 
 [![github contribution grid snake animation](https://github.com/mibrahim76112/mibrahim76112/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/mibrahim76112/mibrahim76112/raw/output/github-contribution-grid-snake-dark.svg)
-
-> ⚙️ To enable the snake: create a `.github/workflows/snake.yml` in your profile repo. See [setup guide](https://github.com/gulglitch/github-revamp/blob/main/SETUP_GUIDE.md).
 
 ---
 
