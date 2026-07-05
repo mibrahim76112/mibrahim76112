@@ -58,15 +58,18 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mibrahim76112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mibrahim76112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mibrahim76112&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mibrahim76112&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mibrahim76112&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mibrahim76112&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mibrahim76112&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🐍 CONTRIBUTION SNAKE
 
