@@ -57,9 +57,14 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
 
 ## 📊 GITHUB STATS
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mibrahim76112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9)](https://github.com/mibrahim76112) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mibrahim76112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9)](https://github.com/mibrahim76112)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mibrahim76112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mibrahim76112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mibrahim76112&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://github.com/mibrahim76112)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mibrahim76112&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
