@@ -68,7 +68,7 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mibrahim76112&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mibrahim76112&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
