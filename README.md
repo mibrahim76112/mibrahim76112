@@ -73,12 +73,6 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-[![github contribution grid snake animation](https://github.com/mibrahim76112/mibrahim76112/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/mibrahim76112/mibrahim76112/raw/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 🛠 TECH STACK
 
 **Languages**
