@@ -10,7 +10,7 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
 
 - 🔭 Currently researching hierarchical deep RL for multi-agent networked systems and deep unfolding for intelligent metasurface-assisted communications
 - 📡 Working on physical-layer modeling, beamforming optimization, and IRS/SIM-assisted wireless systems
-- 🤖 Building safe cooperative MADRL frameworks for UAV trajectory optimization with Lyapunov-based safety constraints
+- 🤖 Building safe cooperative MADRL frameworks
 - 🛠️ Background in embedded firmware (ESP32, FreeRTOS), FPGA design, and edge AI deployment (Jetson Nano, TensorRT)
 - 💼 Open to research collaboration and ML/embedded engineering roles
 - 📫 Reach me at: **ibrahimxh07@gmail.com**
