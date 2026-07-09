@@ -19,12 +19,10 @@ I'm an M.Sc. candidate in Electrical and Computer Engineering at the University 
 
 ## ⭐ LATEST PROJECTS
 
-| 🤖 **Cooperative Safe MADRL** | 📡 **WMMSE Deep Unfolding** |
+| 🌐 **5G Cloud-Native Network Functions** | 🤖 **Cooperative Safe MADRL** |
 |---|---|
-| **[Cooperative Safe MADRL](https://github.com/mibrahim76112/Coperative-Safety-MADRL)** — Multi-agent RL framework for UAV trajectory optimization with Lyapunov-inspired safety constraints. Benchmarked across rewards, violations, QoS, and energy metrics. | **[WMMSE and Deep Unfolding for Wireless Optimization](https://github.com/mibrahim76112/WMMSE_Unfolding)** — Benchmarked 5 beamforming methods including deep unfolding and accelerated variants and improved 9–10% of sumrate over truncated WMMSE. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![MADRL](https://img.shields.io/badge/MADRL-6D28D9?style=flat-square&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Beamforming](https://img.shields.io/badge/Beamforming-0EA5E9?style=flat-square&logoColor=white) |
-
----
+| **[5G Cloud-Native Network Functions](https://github.com/mibrahim76112/Cloud-Native-5G-Network-Functions)** — AMF and UPF implemented as containerized C++17 microservices with gRPC N1/N4 interfaces. Configurable thread pool achieving 4.1x throughput gain, benchmarked gRPC vs REST and Docker vs Kubernetes, with Prometheus metrics for production observability. | **[Cooperative Safe MADRL](https://github.com/mibrahim76112/Coperative-Safety-MADRL)** — Multi-agent RL framework for UAV trajectory optimization with Lyapunov-inspired safety constraints. Achieved zero collision violations vs IPPO/MAPPO baselines and 4x higher energy efficiency. |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![MADRL](https://img.shields.io/badge/MADRL-6D28D9?style=flat-square&logoColor=white) |
 
 ## 🔥 MORE PROJECTS
 
