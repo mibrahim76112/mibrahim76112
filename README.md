@@ -37,17 +37,6 @@ PyTorch • Hugging Face • LangChain • LangGraph • OpenAI • Vercel AI SD
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mibrahim76112&theme=default&hide_border=true&card_width=500" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mibrahim76112&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 🤝 Connect
 
